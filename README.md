@@ -1,3 +1,3 @@
 # githubDemo
 this is a demo repository
-author : yash bansal
+author : yash bansal(NSUT college)
